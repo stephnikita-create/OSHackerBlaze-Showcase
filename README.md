@@ -118,4 +118,4 @@ L’objectif est de progresser sur un projet concret autour de :
 ## Auteur
 
 **Stéphane Pressoir**  
-Reconversion informatique – Python / Linux junior
+Développeur Python junior en reconversion vers le développement informatique.
