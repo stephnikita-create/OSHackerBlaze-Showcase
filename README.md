@@ -115,6 +115,14 @@ L’objectif est de progresser sur un projet concret autour de :
 
 ---
 
+## Objectif du projet
+
+OSHackerBlaze est un projet personnel créé pour progresser concrètement en développement Python, architecture logicielle, Linux et création d’interfaces graphiques avec PyQt6.
+
+L’objectif est d’apprendre en construisant un vrai projet évolutif.
+
+---
+
 ## Auteur
 
 **Stéphane Pressoir**  
