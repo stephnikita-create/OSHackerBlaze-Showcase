@@ -103,3 +103,19 @@ L’objectif est de progresser sur un projet concret autour de :
 
 **Stéphane Pressoir**  
 Reconversion informatique – Python / Linux junior
+
+---
+
+## Ce que j’ai appris avec OSHackerBlaze
+
+À travers ce projet, je travaille sur :
+
+- Architecture modulaire en Python
+- Organisation d’un projet logiciel
+- Interfaces graphiques avec PyQt6
+- Gestion des bugs et débogage
+- Linux / Ubuntu
+- Git et GitHub
+- Logique de développement d’applications desktop
+- Structuration du code
+- Apprentissage autonome à travers un projet concret
