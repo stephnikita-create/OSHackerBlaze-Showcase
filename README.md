@@ -1,5 +1,7 @@
 # OSHackerBlaze Showcase
 
+![Aperçu OSHackerBlaze](screenshots/bureau.png)
+
 Projet personnel de développement d’un environnement desktop Linux en Python/PyQt6.
 
 Ce dépôt public sert de vitrine pour présenter mon travail dans le cadre de ma reconversion vers l’informatique et le développement Python.
